@@ -2,6 +2,8 @@
 
 A modern email generation platform that leverages Groq LLM for AI-powered email content creation. Built with Next.js 14, TypeScript, and Tailwind CSS.
 
+<img width="945" alt="Screenshot 2025-01-05 at 8 21 53 PM" src="https://github.com/user-attachments/assets/b808bac3-5ebe-489e-8493-41a8b7ef930a" />
+
 ## Features
 
 - 📧 AI-powered email content generation using Groq LLM
