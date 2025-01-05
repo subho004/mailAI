@@ -37,8 +37,8 @@ Before you begin, ensure you have:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/dynamic-email-platform.git
-cd dynamic-email-platform
+git clone https://github.com/subho004/mailAI
+cd mailAI
 ```
 
 2. Install dependencies:
