@@ -34,7 +34,7 @@ export async function POST(req: Request) {
 
     const mailOptions = {
       from: {
-        name: process.env.SMTP_FROM_NAME || "Your Company Name",
+        name: process.env.SMTP_FROM_NAME || "subho004 server",
         address: process.env.SMTP_FROM_EMAIL || "",
       },
       to: Array.isArray(recipients) ? recipients.join(", ") : recipients,
